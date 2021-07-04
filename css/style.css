@@ -88,3 +88,77 @@ span{
     text-decoration: none;
     font-family: 'Otomanopee One', sans-serif;
 }
+.con{
+    display: flex;
+    background-color:cadetblue;
+    color:black;
+}
+
+.achive{
+    width: 50%;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 5px 10px;
+
+}
+.achive h1{
+    font-size: 40px;
+    font-family:arial;
+    margin-bottom: 30px;
+
+}
+.achive li{
+    font-size: 15px;
+    text-align: justify;
+    line-height: 7ch;
+    
+}
+.contact{
+    width: 50%;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contact h1{
+    font-size: 40px;
+    font-family:arial;
+    margin-bottom: 30px;
+}
+#name{
+box-sizing: border-box;
+font-size: 15px;
+padding: 5px 0;
+border-radius: 5px;
+border: 1px solid whitesmoke;
+margin: 5px 0px;
+}
+.email{
+box-sizing: border-box;
+font-size: 15px;
+padding: 5px 0;
+border-radius: 5px;
+border: 1px solid whitesmoke;
+margin: 5px 0px;
+}
+#opinion{
+
+box-sizing: border-box;
+font-size: 15px;
+padding: 5px 0;
+border-radius: 5px;
+border: 1px solid whitesmoke;
+margin: 5px 0px;
+}
+button{
+    margin-top: 10px;
+    width: 20%;
+    text-align:center;
+    padding: 5px 10px;
+    background-color:gray;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Tourney', cursive;
+    
+}
