@@ -79,7 +79,7 @@ span{
     margin-bottom:;
 }
 .cv{
-    background-color: black;
+    background-color: cadetblue;
     border-radius: 7px;
     color: whitesmoke;
     padding: 15px 30px;
@@ -87,6 +87,10 @@ span{
     margin-top: ;
     text-decoration: none;
     font-family: 'Otomanopee One', sans-serif;
+}
+.cv:hover{
+    color: whitesmoke;
+    background-color: black;
 }
 .con{
     display: flex;
@@ -161,4 +165,18 @@ button{
     border-radius: 5px;
     font-family: 'Tourney', cursive;
     
+}
+button:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.foot{
+    
+    background-color: black;
+    color: brown;
+    height: 30px;
+    width: 100%;
+}
+.foot p{
+    text-align: center;
 }
