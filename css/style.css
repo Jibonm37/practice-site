@@ -1,0 +1,90 @@
+*{
+    font-family: 'Festive', cursive;
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Tourney', cursive;
+    font-family: 'Pacifico', cursive;
+    margin: 0;
+    padding: 0;
+}
+.top-site{
+    display: flex;
+    margin: ;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: ;
+}
+h2{
+    color: darkcyan;
+    font-family: 'Otomanopee One', sans-serif;
+    margin-bottom: 10px;
+
+}
+p{
+    text-align: justify;
+    margin-bottom: 50px;
+}
+span{
+    color: rgb(113, 193, 196);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+.wel{
+    font-weight: bold;
+    font-size: 800;
+    color: gray;
+    font-family: 'Otomanopee One', sans-serif;
+    margin-right: 25%;
+    margin-bottom: 60px;
+}
+.salam{
+    font-size: 700;
+    font-family: 'Tourney', cursive;
+    color: coral;
+    margin-left: 60%;
+    margin-bottom: 60px;
+}
+.half-yard{
+    width: 50%;
+    margin: 0 5px;
+    
+}
+.half-yard img{
+    width: 100%;
+}
+.deal{
+    text-decoration: none;
+    color: black;
+    font-family: 'Otomanopee One', sans-serif;
+    border: 1px solid salmon;
+    padding: 10px 20px;
+    background-image: linear-gradient(salmon,orange);
+    color: seashell;
+}
+.about{
+    text-align: center;
+    margin-top: 80px;
+    padding:0px 40px;
+
+}
+.about h1{
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-family: 'Tourney', cursive;
+    color:teal;
+    
+}
+.about p{
+    color: rgb(55, 64, 73);
+    text-align: justify;
+    margin-bottom:;
+}
+.cv{
+    background-color: black;
+    border-radius: 7px;
+    color: whitesmoke;
+    padding: 15px 30px;
+    margin-left:;
+    margin-top: ;
+    text-decoration: none;
+    font-family: 'Otomanopee One', sans-serif;
+}
